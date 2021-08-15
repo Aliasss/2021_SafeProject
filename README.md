@@ -31,4 +31,5 @@
 
 - Google Bigquery에 테이블 업로드하기 위해 컬럼명 영어로 통일
 
+(4) 데이터 인터랙티브 시각화 
 - Google Data Studio를 활용해 데이터 시각화
